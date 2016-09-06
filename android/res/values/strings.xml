@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">集控系统</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Title</string>
+    <string name="fuck">TTT</string>
+    <string name="time_0" translatable="false">0:00</string>
+</resources>
